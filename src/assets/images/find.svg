@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.6276197mm"
+   height="5.464838mm"
+   viewBox="0 0 5.6276197 5.464838"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="find.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-paths="true"
+     inkscape:zoom="16.972785"
+     inkscape:cx="11.047097"
+     inkscape:cy="17.911027"
+     inkscape:window-width="1126"
+     inkscape:window-height="1018"
+     inkscape:window-x="780"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-66.80641,-148.51559)">
+    <g
+       id="g1428"
+       transform="matrix(0.10838302,0,0,0.10892708,64.997511,136.36209)"
+       style="stroke-width:4.60173;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff;stroke-opacity:1">
+      <ellipse
+         style="fill:none;stroke:#ffffff;stroke-width:4.60173;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path846"
+         cx="39.547501"
+         cy="134.4323"
+         rx="20.556763"
+         ry="20.556765" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:4.60173;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 54.933732,148.06477 66.31245,159.44349"
+         id="path1326" />
+    </g>
+  </g>
+</svg>

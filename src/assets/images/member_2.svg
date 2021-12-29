@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="12.533866mm"
+   height="12.225357mm"
+   viewBox="0 0 12.533866 12.225357"
+   version="1.1"
+   id="svg2768"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="member_2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2770"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="6.0007856"
+     inkscape:cx="18.080966"
+     inkscape:cy="25.829951"
+     inkscape:window-width="1726"
+     inkscape:window-height="1018"
+     inkscape:window-x="183"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="false" />
+  <defs
+     id="defs2765">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient18336">
+      <stop
+         style="stop-color:#0096ff;stop-opacity:1;"
+         offset="0"
+         id="stop18332" />
+      <stop
+         style="stop-color:#0096ff;stop-opacity:0;"
+         offset="1"
+         id="stop18334" />
+    </linearGradient>
+    <rect
+       x="-39.994763"
+       y="-7.6656629"
+       width="37.661735"
+       height="41.494567"
+       id="rect10112" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18336"
+       id="linearGradient18338"
+       x1="2.4237552"
+       y1="6.1126749"
+       x2="10.11011"
+       y2="6.1126749"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="圖層 2"
+     style="display:none;opacity:0.237942"
+     transform="translate(-96.730656,-159.42864)"
+     sodipodi:insensitive="true">
+    <path
+       id="path3600"
+       style="opacity:1;fill:#ff0000;stroke:#ff0000;stroke-width:0.377953;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 389.2832,602.75391 a 23.496923,22.913665 0 0 0 -23.49804,22.91406 23.496923,22.913665 0 0 0 23.49804,22.91406 23.496923,22.913665 0 0 0 23.4961,-22.91406 23.496923,22.913665 0 0 0 -23.4961,-22.91406 z m -0.64843,4.82031 8.5039,22.75 5.44727,-14.1211 3.55078,8.87305 h 6.06055 v 3.01953 h -8.10547 l -1.44727,-3.625 -5.55078,14.37305 -8.49609,-22.74414 -7.10938,18.4707 -5.32226,-11.65039 -2.13282,5.01367 h -7.66211 v -3.02734 h 5.66211 l 4.03711,-9.48633 5.17383,11.33985 z"
+       transform="scale(0.26458333)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="圖層 3"
+     style="display:inline;opacity:1">
+    <circle
+       style="opacity:1;fill:none;stroke:#0096ff;stroke-width:0.514537;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="path4290"
+       cx="6.2669325"
+       cy="6.1126752"
+       r="5.8927317" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text10110"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect10112);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-39.994141"
+         y="74.433594"
+         id="tspan18392">融</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.5219px;line-height:1.25;font-family:sans-serif;fill:#0096ff;fill-opacity:1;stroke:#0096ff;stroke-width:0.213048;stroke-opacity:1"
+       x="1.9602107"
+       y="9.4124146"
+       id="text16248"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.213048;stroke:#0096ff;stroke-opacity:1;fill:#0096ff;fill-opacity:1"
+         x="1.9602107"
+         y="9.4124146"
+         id="tspan17150">融</tspan></text>
+  </g>
+</svg>

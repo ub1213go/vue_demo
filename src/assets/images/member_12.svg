@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4.8652706mm"
+   height="4.8652749mm"
+   viewBox="0 0 4.8652707 4.865275"
+   version="1.1"
+   id="svg2768"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="member_12.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2770"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="16.972785"
+     inkscape:cx="4.8901816"
+     inkscape:cy="15.259723"
+     inkscape:window-width="1339"
+     inkscape:window-height="1018"
+     inkscape:window-x="542"
+     inkscape:window-y="6"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="false"
+     inkscape:snap-nodes="true" />
+  <defs
+     id="defs2765">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient18336">
+      <stop
+         style="stop-color:#0096ff;stop-opacity:1;"
+         offset="0"
+         id="stop18332" />
+      <stop
+         style="stop-color:#0096ff;stop-opacity:0;"
+         offset="1"
+         id="stop18334" />
+    </linearGradient>
+    <rect
+       x="-39.994762"
+       y="-7.6656628"
+       width="37.661736"
+       height="41.494568"
+       id="rect10112" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18336"
+       id="linearGradient18338"
+       x1="2.4237552"
+       y1="6.1126747"
+       x2="10.11011"
+       y2="6.1126747"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="圖層 3"
+     style="display:inline;opacity:1"
+     transform="translate(-1.4740076,-1.5897076)">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text10110"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect10112);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-39.994141"
+         y="74.433594"
+         id="tspan8908">融</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.5219px;line-height:1.25;font-family:sans-serif;fill:#0096ff;fill-opacity:1;stroke:#0096ff;stroke-width:0.213048;stroke-opacity:1"
+       x="1.9602107"
+       y="9.4124146"
+       id="text16248"><tspan
+         sodipodi:role="line"
+         style="fill:#0096ff;fill-opacity:1;stroke:#0096ff;stroke-width:0.213048;stroke-opacity:1"
+         x="1.9602107"
+         y="9.4124146"
+         id="tspan17150" /></text>
+    <ellipse
+       style="opacity:1;fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7527"
+       cx="3.9066429"
+       cy="4.0223451"
+       rx="2.1826353"
+       ry="2.1826375" />
+    <path
+       style="color:#000000;fill:#ffffff;-inkscape-stroke:none"
+       d="m 4.6914062,3.1171875 0.043846,0.3457031 H 2.453125 v 0.4003907 h 2.9863281 z"
+       id="path7758"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="color:#000000;fill:#ffffff;-inkscape-stroke:none"
+       d="M 3.1901491,4.9104532 3.1463031,4.5647501 H 5.4284303 V 4.1643594 H 2.4421022 Z"
+       id="path8386"
+       sodipodi:nodetypes="cccccc" />
+  </g>
+</svg>

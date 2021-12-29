@@ -1,0 +1,288 @@
+@import  "~bootstrap/scss/bootstrap";
+$dark: rgb(33,37,42);
+$white: rgb(221, 221, 221);
+$btnHover: cornflowerblue;
+
+.DownNav{
+    .icon{
+        content:url('./assets/images/home.svg');
+        display: inline-block;
+    }
+    .icon-red{
+        content:url('./assets/images/home_red.svg');
+        display: inline-block;
+    }
+    .icon-member_31{
+        content:url('./assets/images/member_31.svg');
+        display: inline-block;
+    }
+    .icon-member_31_red{
+        content:url('./assets/images/member_31_red.svg');
+        display: inline-block;
+    }
+    .icon-member_32{
+        content:url('./assets/images/member_32.svg');
+        display: inline-block;
+    }
+    .icon-member_32_red{
+        content:url('./assets/images/member_32_red.svg');
+        display: inline-block;
+    }
+    .icon-member_33{
+        content:url('./assets/images/member_33.svg');
+        display: inline-block;
+    }
+    .icon-member_33_red{
+        content:url('./assets/images/member_33_red.svg');
+        display: inline-block;
+    }
+    .icon-member_34{
+        content:url('./assets/images/member_34.svg');
+        display: inline-block;
+    }
+    .icon-member_34_red{
+        content:url('./assets/images/member_34_red.svg');
+        display: inline-block;
+    }
+    .icon-member_35{
+        content:url('./assets/images/member_35.svg');
+        display: inline-block;
+    }
+    .icon-member_35_red{
+        content:url('./assets/images/member_35_red.svg');
+        display: inline-block;
+    }
+}
+
+html, body{
+    background-color: $dark;
+    box-sizing: border-box;
+    div{
+        color: $white;
+    }
+}
+
+.DownNav{
+    .nav{
+        background-color: $dark;
+        .nav-item{
+            background-color: $dark;
+            text-decoration: none;
+        }  
+    } 
+}
+.Price{
+    .icon-find{
+        content: url('./assets/images/find.svg');
+        position: absolute;
+        right: 10px;
+        top:10px;
+        cursor: pointer;
+    }
+}
+.SelectBox{
+    div{
+        user-select: none;
+    }
+    .mybtn{
+        cursor: pointer;
+    }
+    .mybtn:hover{
+        color: $btnHover;
+        border-color: $btnHover !important;
+    }
+}
+.SelectBox2 .row{
+    div{
+        user-select: none;
+    }
+    .icon{
+        content:url('./assets/images/coin.svg');
+    }
+    .icon-red{
+        content:url('./assets/images/coin_red.svg');
+    }
+}
+.SelectBox3{
+    
+    .row {
+        div {
+            user-select: none;
+            cursor: pointer;
+        }
+        .icon_red {
+            content: url('./assets/images/coin_red.svg');
+        }
+        .mybtn .icon{
+            content: url('./assets/images/coin_gray.svg');
+        }
+        .col:hover .mybtn{
+            color: $btnHover !important;
+            border-color: $btnHover !important;
+        }
+        .col:hover .icon{
+            content: url('./assets/images/coin_hover.svg');
+    
+        }
+    }
+}
+.MemberSmallInfoBox{
+    .icon{
+        content: url('./assets/images/coin_red.svg');
+    }
+    .icon-member_1{
+        content: url('./assets/images/member_1.svg');
+    }
+    .icon-member_2{
+        content: url('./assets/images/member_2.svg');
+    }
+    .icon-member_3{
+        content: url('./assets/images/member_3.svg');
+    }
+}
+.MemberSmallButton{
+    .icon{
+        content: url('./assets/images/coin_red.svg');
+    }
+    .icon-member_11{
+        content: url('./assets/images/member_11.svg');
+    }
+    .icon-member_12{
+        content: url('./assets/images/member_12.svg');
+    }
+    .icon-member_13{
+        content: url('./assets/images/member_13.svg');
+    }
+}
+.MemberListButton{
+    .icon{
+        content: url('./assets/images/coin_red.svg');
+    }
+    .icon-arrow{
+        content: url('./assets/images/arrow.svg');
+    }
+    .icon-minus_red{
+        content: url('./assets/images/minus_red.svg')
+    }
+    .icon-pass{
+        content: url('./assets/images/pass.svg')
+    }
+    .icon-member_21{
+        content: url('./assets/images/member_21.svg');
+    }
+    .icon-member_22{
+        content: url('./assets/images/member_22.svg');
+    }
+    .icon-member_23{
+        content: url('./assets/images/member_23.svg');
+    }
+}
+.BackButtonLeftRightCorner {
+    .icon-back {
+        content: url('./assets/images/back_arrow.svg');
+    }
+}
+.MemberModify {
+    .my-changepwd {
+        width: 100%;
+        display: none;
+        text-align: center;
+        position: sticky;
+        bottom: -100%;
+        background-color: $dark;
+        height: 50%;
+        transition-duration: 0.5s;
+        transition-property: bottom;
+    }
+}
+.Member{
+    .icon-gear{
+        content: url('./assets/images/gear.svg');
+    }
+    .icon-eyeopen{
+        content: url('./assets/images/eyeopen.svg');
+    }
+    .icon-eyeclose{
+        content: url('./assets/images/eyeclose.svg');
+    }
+    .icon-moneyBag{
+        content: url('./assets/images/moneyBag.svg');
+    }
+    .icon-coin_blue{
+        content: url('./assets/images/coin_blue.svg');
+    }
+    @media only screen and (min-device-width: 576px){
+        .money-btn{
+            width: 80px;
+        }
+    }
+    @media only screen and (max-device-width: 576px){
+        .money-btn{
+            padding: 5px 5px 5px 5px;
+        }
+    }
+}
+.AddAccount {
+    .icon-account{
+        content: url('./assets/images/account.svg')
+    }
+}
+.FatSelect {
+    select{
+        background: url("./assets/images/arrow_down.svg") no-repeat right;
+        background-size: 10px;
+    }
+}
+.InputText {
+    .icon-user {
+        content: url('./assets/images/user.svg');
+    }
+    .icon-pwd {
+        content: url('./assets/images/pwd.svg');
+    }
+    .icon-love {
+        content: url('./assets/images/love.svg');
+    }
+}
+.Search {
+    .icon-find {
+        content: url('./assets/images/find.svg');
+    }
+}
+.Home {
+    .icon-arrow {
+        content: url('./assets/images/arrow.svg');
+    }
+}
+.DepositoryAccount {
+    .icon-card {
+        content: url('./assets/images/card.svg');
+    }
+}
+
+
+
+
+#app a {
+    text-decoration: none;
+}
+//===============【scroll bar】===============
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }

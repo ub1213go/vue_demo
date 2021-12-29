@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4.7382121mm"
+   height="4.7366619mm"
+   viewBox="0 0 4.7382122 4.736662"
+   version="1.1"
+   id="svg2768"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="member_11.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2770"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="16.972785"
+     inkscape:cx="9.1911847"
+     inkscape:cy="7.12906"
+     inkscape:window-width="1339"
+     inkscape:window-height="1018"
+     inkscape:window-x="542"
+     inkscape:window-y="6"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="false"
+     inkscape:snap-nodes="false" />
+  <defs
+     id="defs2765">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient18336">
+      <stop
+         style="stop-color:#0096ff;stop-opacity:1;"
+         offset="0"
+         id="stop18332" />
+      <stop
+         style="stop-color:#0096ff;stop-opacity:0;"
+         offset="1"
+         id="stop18334" />
+    </linearGradient>
+    <rect
+       x="-39.994762"
+       y="-7.6656628"
+       width="37.661736"
+       height="41.494568"
+       id="rect10112" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18336"
+       id="linearGradient18338"
+       x1="2.4237552"
+       y1="6.1126747"
+       x2="10.11011"
+       y2="6.1126747"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="圖層 3"
+     style="display:inline;opacity:1"
+     transform="translate(-1.4959627,-1.6073223)">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text10110"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect10112);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-39.994141"
+         y="74.433594"
+         id="tspan7381">融</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.5219px;line-height:1.25;font-family:sans-serif;fill:#0096ff;fill-opacity:1;stroke:#0096ff;stroke-width:0.213048;stroke-opacity:1"
+       x="1.9602107"
+       y="9.4124146"
+       id="text16248"><tspan
+         sodipodi:role="line"
+         style="fill:#0096ff;fill-opacity:1;stroke:#0096ff;stroke-width:0.213048;stroke-opacity:1"
+         x="1.9602107"
+         y="9.4124146"
+         id="tspan17150" /></text>
+    <path
+       id="path5234"
+       style="color:#000000;display:inline;opacity:1;fill:#ffffff;stroke-width:3.77953;-inkscape-stroke:none"
+       d="m 14.703125,6.7519531 c -4.9339548,4e-7 -8.9550774,4.0133109 -8.9550781,8.9472659 0,1.408327 0.3292571,2.796976 0.9667969,4.052734 a 0.86375433,0.86375433 0 0 0 1.1679687,0.382813 0.86375433,0.86375433 0 0 0 0.46875,-0.705078 l 3.8574215,-4.44336 2.361328,1.904297 3.695313,-3.853516 0.0918,2.953125 0.996094,-0.05859 -0.21875,-4.533203 -4.335938,0.318359 0.111328,0.988281 2.421875,-0.265625 -2.865234,3.085938 -2.376953,-1.917969 -4.1152346,4.730469 c -0.329076,-0.838703 -0.4980469,-1.733515 -0.4980469,-2.638672 4e-7,-4.000341 3.2262215,-7.2187499 7.2265625,-7.2187502 4.000341,0 7.226562,3.2184092 7.226563,7.2187502 0,4.000341 -3.226222,7.226562 -7.226563,7.226562 -1.372182,1e-6 -2.716771,-0.393116 -3.875,-1.128906 a 0.86375433,0.86375433 0 0 0 -1.1894531,0.265625 0.86375433,0.86375433 0 0 0 0.265625,1.195312 c 1.4350541,0.911649 3.0986891,1.396485 4.7988281,1.396485 4.933955,0 8.953125,-4.021123 8.953125,-8.955078 0,-4.933955 -4.01917,-8.9472659 -8.953125,-8.9472659 z"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.02487468,-0.17913196)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="圖層 5"
+     style="display:inline"
+     transform="translate(-1.5208374,-1.7864542)" />
+</svg>
