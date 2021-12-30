@@ -5,7 +5,6 @@
     <TitleLabelSection :title='`股票名稱(${$route.params.code})`'/>
     <SelectBox3Section @select='selectIndex' :select='index' :list='[{name: "即時走勢"}, {name: "技術分析"}]' :option='{border: true}'/>
 
-    <K/>
     
 
     <BottomInfoSection :title='"已全部加載"'/>
@@ -17,7 +16,6 @@ import TitleLabelSection from '@/components/TitleLabel.vue';
 import SelectBox3Section from '@/components/SelectBox3.vue';
 import BottomInfoSection from '@/components/BottomInfo.vue';
 import BackButtonLeftRightCornerSection from '@/components/BackButtonLeftRightCorner.vue';
-import K from '@/components/K.vue';
 export default {
   name: 'PriceDetail',
   components: {
@@ -25,7 +23,6 @@ export default {
     SelectBox3Section,
     BottomInfoSection,
     BackButtonLeftRightCornerSection,
-    K
   },
   methods: {
     selectIndex(data){
